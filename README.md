@@ -257,7 +257,7 @@ color: black;
  word-wrap: break-word
  ~~~
 ## OUTPUT:
-![figma](image.png)
+![figma](image-1.png)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
